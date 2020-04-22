@@ -1,0 +1,14 @@
+{
+  "name": "schmemory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "Meet Dave",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
